@@ -11,11 +11,10 @@ I'm a Full Stack Developer and AWS enthusiast dedicated to building scalable web
 - 👯 I’m looking to collaborate on open source projects and innovative web applications.
 - 💬 Ask me about full stack development, AWS, and UI/UX design.
 - 📫 How to reach me: rsoundharya03@gmail.com.
-- ⚡ Fun fact: I enjoy sketching and traveling in my free time.
 
 ## My GitHub Stats
 
-![Soundharya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsoundharya03&show_icons=true&theme=radical)
+![Soundharya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soundharya2004&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
@@ -32,17 +31,11 @@ I'm a Full Stack Developer and AWS enthusiast dedicated to building scalable web
 
 ## Visualization of My Projects
 
-[![Soundharya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsoundharya03&theme=radical)](https://git.io/streak-stats)
+[![Soundharya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soundharya2004&theme=radical)](https://git.io/streak-stats)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/soundharyarajendran)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:rsoundharya03@gmail.com)
-
-## Recent Projects
-
-- [Project 1](https://github.com/rsoundharya03/Project1): A brief description of Project 1.
-- [Project 2](https://github.com/rsoundharya03/Project2): A brief description of Project 2.
-- [Project 3](https://github.com/rsoundharya03/Project3): A brief description of Project 3.
 
 
