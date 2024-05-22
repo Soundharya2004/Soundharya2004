@@ -29,7 +29,7 @@ I'm a Full Stack Developer and AWS enthusiast dedicated to building scalable web
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=PowerBI&logoColor=black)
 
-## Visualization of My Projects
+## Github Activity
 
 [![Soundharya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soundharya2004&theme=radical)](https://git.io/streak-stats)
 
